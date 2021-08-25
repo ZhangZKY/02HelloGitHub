@@ -1,6 +1,10 @@
 package com.zky;
 
 public class Class {
-    int id;
-    String aggg;
+
+    String name;
+    String age;
+    int tt;
+    String pwd;
+
 }
